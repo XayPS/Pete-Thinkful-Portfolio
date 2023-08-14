@@ -68,3 +68,7 @@ a {
 a:hover {
   color: #f77f00
 }
+
+li {
+  text-align: left;
+}
